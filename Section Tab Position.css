@@ -1,0 +1,14 @@
+/* places column and section inside the box */
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-editor-column-settings {
+bottom: 30%;
+}
+
+/* changes the font size */
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-editor-element-settings .elementor-editor-element-setting > a {
+font-size: 14px;
+}
+
+/* changes the background color */
+.elementor-editor-active .elementor.elementor-edit-mode .elementor-editor-element-settings .elementor-editor-element-setting {
+background-color: #1e73be;
+}
