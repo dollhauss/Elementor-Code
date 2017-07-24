@@ -1,0 +1,6 @@
+/*--ACCORDION TOP LINE--*/
+.elementor-accordion-title{
+	border-top-width:2px!important; 
+	border-top-style:solid;
+	border-top-color:#fff; 
+}
